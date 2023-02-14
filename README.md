@@ -1,2 +1,2 @@
 # Future-Netizens
-Repository for Community Contributions and updationof daily code.
+Repository for Community Contributions and to update their daily code.
