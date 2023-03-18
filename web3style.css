@@ -1,0 +1,77 @@
+.login{
+    margin-left: 89%;
+}
+.login img{
+    width: 100%;
+}
+.frontfont{
+    font-family: PROGRESS;
+    margin-top: 13%;
+    text-align: center;
+    color: #1F1F1F;
+}
+.frontfont h1{
+    font-family: PROGRESS;
+    line-height: 50%;
+    font-size: 48px;
+}
+.frontfont h2{
+    font-family: PROGRESS;
+    font-size: 130%;
+}
+#boxes{
+    margin-top: 23%;
+    color: white;
+    text-align: center;
+}
+#boxes h2{
+    text-align: center;
+    color: white;
+}
+#leftbox {
+    margin-left: 5%;
+    border-radius: 5%;
+    float:left;
+    background:#1F1F1F;
+    width:25%;
+    height:280px;
+}
+#middlebox{
+    border-radius: 5%;
+    float:left;
+    margin-left: 8.2%;
+    background:#1F1F1F;
+    width:25%;
+    height:280px;
+}
+#rightbox{
+    margin-right: 5%;
+    float:right;
+    border-radius: 5%;
+    background:#1F1F1F;
+    width:25%;
+    height:280px;
+}
+.endbox{
+    color: #1F1F1F;
+    margin-top: 50%;
+    display: flex;
+}
+.lefttext{
+    width: 70%;
+    float: left;
+}
+.lefttext h1{
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    margin-top: 20%;
+    margin-left: 25%;
+}
+.rightpic{
+    float: right;
+}
+.rightpic img{
+    margin-left: 15%;
+    width: 90%;
+}
